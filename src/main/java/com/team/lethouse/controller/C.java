@@ -1,0 +1,1 @@
+piblic class C{}
